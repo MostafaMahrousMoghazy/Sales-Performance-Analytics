@@ -32,7 +32,7 @@ This project focuses on analyzing store sales data to identify sales trends, eva
 | [Mohamed Magdy](https://www.linkedin.com/in/mohamed-magdy-accounting-finance/) | Data Cleaning, Data Preparation, and Data Storage |
 | [Rahma Saad](https://www.linkedin.com/in/rahma-saad-1a1041387/)| Exploratory Data Analysis (EDA) and Identifying Sales Trends |
 | [Abdullah Elmenshawy](https://www.linkedin.com/in/abdullah-elmenshawy-28b509300/) | Dashboard Development and Data Visualization |
-| [Mohamed Ahmed Elbrkawy](https://www.linkedin.com/in/mohamed-ahmed-elberkawy-5b526b36a/) | Business Insights, Findings, and Recommendations |
+| [Mohamed Elbrkawy](https://www.linkedin.com/in/mohamed-ahmed-elberkawy-5b526b36a/) | Business Insights, Findings, and Recommendations |
 
 ---
 
